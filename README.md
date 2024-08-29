@@ -1,4 +1,4 @@
-```
+
 # Resume Analyzer
 
 This project is a Resume Analyzer that evaluates a resume (in PDF format) against a job description and returns a match percentage. The tool leverages AI to assess the alignment between the candidate's resume and the job requirements.
